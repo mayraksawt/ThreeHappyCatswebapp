@@ -1,0 +1,92 @@
+enable  : true
+topTitle: IMAGE
+title   : Gallery
+subtitle: Collect the cuteness of cats here.
+
+filtermenu :
+  - name      : Bengal
+    category  : Bengal
+
+  - name      : Exotic Shorthair
+    category  : Exotic-Shorthair
+
+  - name      : American Shorthair
+    category  : American-Shorthair
+
+  - name      : Persia
+    category  : Persia
+
+  - name      : British Shorthair
+    category  : British-Shorthair
+
+item   :
+
+  - title : American Shorthair Photo 3
+    image : images/portfolio/1.jpg
+    category  : American-Shorthair
+
+  - title : Bengal Photo 3
+    image : images/portfolio/2.jpg
+    category  : Bengal
+
+  - title : Exotic Shorthair Photo 3
+    image : images/portfolio/3.jpg
+    category  : Exotic-Shorthair
+
+  - title : Persia Photo 1
+    image : images/portfolio/4.jpg
+    category  : Persia
+
+  - title : Bengal Photo 1
+    image : images/portfolio/5.png
+    category  : Bengal
+
+  - title : American Shorthair Photo 1
+    image : images/portfolio/6.jpg
+    category  : American-Shorthair
+
+  - title : Persia Photo 2
+    image : images/portfolio/7.jpg
+    category  : Persia
+
+  - title : British Shorthair Photo 2
+    image : images/portfolio/8.jpg
+    category  : British-Shorthair
+
+  - title : Bengal Photo 2
+    image : images/portfolio/9.jpg
+    category  : Bengal
+
+  - title : British Shorthair Photo 1
+    image : images/portfolio/10.jpg
+    category  : British-Shorthair
+
+  - title : Exotic Shorthair Photo 1
+    image : images/portfolio/11.jpg
+    category  : Exotic-Shorthair
+
+  - title : British Shorthair Photo 3
+    image : images/portfolio/12.jpg
+    category  : British-Shorthair
+
+  - title : American Shorthair Photo 2
+    image : images/portfolio/13.jpg
+    category  : American-Shorthair
+
+  - title : Persia Photo 3
+    image : images/portfolio/14.jpg
+    category  : Persia
+
+  - title : Exotic Shorthair Photo 2
+    image : images/portfolio/15.jpg
+    category  : Exotic-Shorthair
+
+  
+
+  
+
+  
+
+  
+
+  

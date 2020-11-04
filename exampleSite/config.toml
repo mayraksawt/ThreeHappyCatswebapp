@@ -1,0 +1,123 @@
+baseURL = "https://google.co.th"
+languageCode = "en-us"
+title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
+theme = "navigator-hugo"
+summaryLength = 10
+
+# Build robots.txt file
+enableRobotsTXT = true
+# google analytics tracking id
+googleAnalytics = "" # your analitics ID
+
+enableGitInfo = false
+pygmentsCodeFences = true
+
+# Multilangues setup
+# Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
+defaultContentLanguageInSubdir = true
+DefaultContentLanguage = "en"
+
+# Site Params
+[params]
+logo = "images/logo.png"
+
+# Gestion des langues : FR / EN / NL / DE
+
+# meta data
+author = "Themefisher"
+description = "This is meta description"
+
+# Gestion des langues : FR / EN / NL / DE
+[Languages]
+############ 1 - Site en FRANCAIS
+[Languages.fr]
+weight = 1
+dateFormat = "2 January 2006"
+logo = "images/.png"
+menufixed = false
+
+############# 2 - Site en ENGLISH
+[Languages.en]
+weight = 2
+languageCode = "en-us"
+title = "Example site multi-language"
+dateFormat = "January 2, 2006"
+home = "Home"
+logo = "images/Cat logo.png"
+menufixed = false
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
+
+# Hero Area Section
+[Languages.en.params.hero]
+enable  = true
+heading = "We are cat slaves"
+description = "Many people who have a cat may well understand that having a cat can experience slavery, including feeding, scooping, urine, and poop. And do you know each other or not? How good is it to raise cats? In addition to training patience. Advantages of having a cat Keeping your cat around will stimulate the body to release chemicals that help you relax. Make you lose your stress And can relieve anxiety."
+button  = true
+btnText = "Know More"
+btnURL  = "https://www.facebook.com/%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B1%E0%B8%95%E0%B8%A7%E0%B9%8C%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C-105903086180123/?ref=py_c"
+videoThumb = "images/slider/video.jpg"
+videoURL   = "https://www.youtube.com/embed/ZsSqJHYDc88"
+
+# About 2 Section
+[Languages.en.params.aboutSm]
+enable  = true
+title   = "Cat health"
+description = "Cat health is another important issue that slaves like us should not be overlooked. To keep your furry friend healthy Free from disease and disease Can stay with us for a long time We also have techniques for taking care of his health that many people may not know to leave each other. Will begin to learn to raise Or an experienced old hand Can be put into practice For a happy life together."
+
+# Blog Section On Homepage
+[Languages.en.params.blog]
+enable  = true
+topTitle= "OUR UNTOLD STORY"
+title   = "Blog."
+subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+
+# Contact Section
+[Languages.en.params.contact]
+enable  = true
+topTitle= "DROP US A NOTE"
+title   = "Contact Us."
+subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+address = "80 Moo 1 Vichitsongkram Road,<br> Kathu, Phuket 83120, Thailand"
+phone   = "+66 76276012-13"
+fax     = "+66 76276002"
+facebook= "https://www.facebook.com/phuketcampus"
+twitter = "https://twitter.com/psuphuket"
+linkedin= "https://www.linkedin.com/"
+dribbble= "https://dribbble.com/"
+instagram= "https://www.instagram.com/"
+mapLatitude = "7.8939976"
+mapLongitude= "98.3525302"
+mapMarker   = "images/marker.png"
+
+# Call to Action Section on About Page
+[Languages.en.params.cta]
+# We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
+
+# Site Menus
+[menu]
+# Navbar Menus
+[[menu.nav]]
+name    = "about"
+url     = "about"
+weight  = 2
+[[menu.nav]]
+name    = "service"
+url     = "service"
+weight  = 3
+[[menu.nav]]
+name    = "portfolio"
+url     = "portfolio"
+weight  = 4
+[[menu.nav]]
+name    = "blog"
+url     = "blog"
+weight  = 5
+[[menu.nav]]
+name    = "contact"
+url     = "contact"
+weight  = 6
+

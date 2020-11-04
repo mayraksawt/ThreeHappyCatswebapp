@@ -1,0 +1,19 @@
+enable    : true
+title     : Buying Cat Food
+description: >
+  Buying cat food Buy it so that your cat gets the full nutrition. They are as healthy, hygienic and helpful as possible for cats, so when buying cat food it is important for the sitter to understand better. The types of cat food are as follows.
+  
+image     : images/about/food.jpg
+
+servicelist:
+  - name    : Fresh food
+  - name    : Packaged food
+clientLogo:
+  - image   : images/client-logo/friskies.png
+  - image   : images/client-logo/Whiskas.png
+  - image   : images/client-logo/purina-one.png
+  - image   : images/client-logo/royal-canin.png
+  - image   : images/client-logo/hill's.png
+  - image   : images/client-logo/orijen.png
+  - image   : images/client-logo/PROPLAN.png
+  - image   : images/client-logo/Kaniva.png

@@ -1,0 +1,13 @@
+enable  : true
+item    :
+  - positionRight : false
+    image : images/about/history.jpg
+    title : History of the cat
+    description : >
+      The cat, commonly known in Latin as "Felis Catus", is a very ancient animal. Cats exist on every continent. Their appearance and structure are similar. But the size may be different and the length of the hair is different. Cold cats have longer fur than tropical cats. There are many popular cat breeds. Such as the Persian breed And Thai species, etc. Westerners believe that the cat was originally an African animal. Egyptians brought them to the house. So cats stayed with people until eventually the cat species spread everywhere around the world. The first cat breed was Abyssinia has long legs with long pointed face. Later, there are many changes in appearance. Various biological principles But the cat that retains the original appearance It has a slender body and a pointed face, promising that there are only three remaining species in the world: Abyssinian, Egyptian and Thai cat. These three cat breeds look no different. The first two species indicate that they may have been extinct. Remaining, but "Thai cat", which is the oldest in the world, is the only species. The ancestor of the Thai cat was probably the Egyptian cat. Because they have a very similar appearance Where the Egyptians called the cat "myo", there is an assumption that the cat came to the east that In ancient trade voyages from Egypt to the east Maybe a sailor put a cat in a boat to catch mice. Egyptian cats have therefore been published to the east.
+
+  - positionRight : true
+    image : images/about/Cat-Day.jpg
+    title : International Cat Day
+    description : >
+      International Cat Day is an important day which falls on August 8 of each year International Fund for Animal Welfare. Established in 2002 to raise awareness about cats. And learn about the rescue and protection of cats, some countries call International Cat Day World Cat Day and International Cat Day have been around the world since its inception. Although most countries consider August 8 as International Cat Day. Instead, Russia has National Cat Day on March 1, and the US has both International Cat Day and National Cat Day on October 29.There is also an important Cat Day on February 22, which is initiated in Japan. It first became a trend on social media because people continued to send cat pictures and videos.

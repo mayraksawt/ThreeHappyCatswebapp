@@ -1,0 +1,69 @@
+enable  : true
+topTitle: TEAM MEMBER
+title   : Our Team.
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+
+member  :
+  - image         : images/team/ball.jpg
+    name          : Sivakorn Ingkawatcharakul
+    designation   : 5935512015
+    description   : >
+      Prince of Songkla University, Phuket Campus.
+    facebookURL   : https://www.facebook.com/profile.php?id=100009728467316
+    twitterURL    : https://twitter.com/
+    gplusURL      : https://plus.google.com/
+    dribbbleURL   : https://dribbble.com/
+
+  - image         : images/team/may.jpg
+    name          : Siriluk Raksawat
+    designation   : 5935512019
+    description   : >
+      Prince of Songkla University, Phuket Campus.
+    facebookURL   : https://www.facebook.com/profile.php?id=100011840856138
+    twitterURL    : https://twitter.com/
+    gplusURL      : https://plus.google.com/
+    dribbbleURL   : https://dribbble.com/
+
+  - image         : images/team/Oat.jpg
+    name          : Teerapong Nithiporndacha
+    designation   : 5935512024
+    description   : >
+      Prince of Songkla University, Phuket Campus.
+    facebookURL   : https://www.facebook.com/nithiporndacha
+    twitterURL    : https://twitter.com/
+    gplusURL      : https://plus.google.com/
+    dribbbleURL   : https://dribbble.com/
+
+  - image         : images/team/neang.jpg
+    name          : Benjamas Kaewsiri
+    designation   : 5935512052
+    description   : >
+      Prince of Songkla University, Phuket Campus.
+    facebookURL   : https://www.facebook.com/mim.alittlebee
+    twitterURL    : https://twitter.com/
+    gplusURL      : https://plus.google.com/
+    dribbbleURL   : https://dribbble.com/
+
+  - image         : images/team/gib.jpg
+    name          : Sudarat Chainarong
+    designation   : 5935512071
+    description   : >
+      Prince of Songkla University, Phuket Campus.
+    facebookURL   : https://www.facebook.com/profile.php?id=100001957510341
+    twitterURL    : https://twitter.com/
+    gplusURL      : https://plus.google.com/
+    dribbbleURL   : https://dribbble.com/
+
+  - image         : images/team/tata.jpg
+    name          : Janjira Junthanon
+    designation   : 5935512079
+    description   : >
+      Prince of Songkla University, Phuket Campus.
+    facebookURL   : https://www.facebook.com/tata.paloo
+    twitterURL    : https://twitter.com/
+    gplusURL      : https://plus.google.com/
+    dribbbleURL   : https://dribbble.com/
+
+  
+
+     

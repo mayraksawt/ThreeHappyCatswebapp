@@ -1,0 +1,42 @@
+enable    : true
+topTitle   : LITTLE MORE BRIEF
+title     : Cat health care techniques.
+subtitle  : 
+tabItem   :
+  - id        : philosophy
+    title     : Vaccination
+    heading   : Follow the vaccination program.
+    content   : >
+      Getting our besties to be vaccinated according to the specified program It is a matter that the babysitter must strictly follow So that he can get vaccinated against various diseases That could happen Let's have a look at the vaccination schedule.<br><br>
+      * The first 3-4 weeks are taken for a health check and deworming.<br/>
+      *  6 weeks take the drug to prevent heartworm disease.<br>
+      *  8 weeks measles vaccination Upper respiratory disease Inflammation of the tongue And oral disease<br>
+      *  9 weeks, vaccinated against leukemia<br>
+      *  12 weeks rabies vaccination<br>
+      *  13 weeks measles vaccination 2nd early respiratory disease, oral disease and laryngitis<br>
+      *  14 weeks 2nd dose of leukemia vaccination<br>
+      *  16 weeks: 1 nasal instillation vaccine.<br>
+      *  19 weeks or about 9 months, instill the second infectious peritonitis vaccine, after which every 6 months take them for a health check Dewormed regularly.<br>
+      *  Once every year, get vaccinated against measles fever. Upper respiratory disease Oral disease and tongue inflammation Get vaccinated against leukemia Vaccination against infectious peritonitis And rabies.<br>
+    image     : images/company/Vaccination.jpg
+
+  - id        : mission
+    title     : Sterilization
+    heading   : Cat sterilization
+    content   : >
+      Medical sterilization is considered to promote health. Because it will reduce many health problems such as diseases related to the reproductive system From purulent endometritis, breast cancer, enlarged prostate, etc., and is also a family planning. Females can be neutered at the age of 7 months or have to go through estrus for the first time. And must have a weight of 2 kilograms as well. Males can be sterilized from the age of 12 months to complete the growth of the body first. Because if sterilized before the end of age There may be problems with the urinary system.
+    image     : images/company/sterilization.jpg
+
+  - id        : vision
+    title     : Health check
+    heading   : Attend an annual health check
+    content   : >
+      My cat needs to have annual health checks just like a human being. Even if he gave him a complete diet Groomed Take regular exercise But how can we be sure? That he has no underlying disease Which may wait for days when the immune system is reduced If you don't want to regret later Recommend to take them to have an annual health check.
+    image     : images/company/Health-check.jpg
+
+  - id        : foods
+    title     : Foods
+    heading   : Choose healthy foods
+    content   : >
+      Choosing food is another important issue. At present, there are a variety of ready-made food recipes for the people to choose from. They are divided into two types, pellet food and wet food, both of which have nutritional values ​​suitable for them at different ages. And also gives the babysitter comfort when feeding Just tear the sachet and pour it into a bowl and you're done. But it also incurs more expenses. Petcitiz recommends providing ready meals along with home-cooked meals. Receiving complete nutrients no different It also prevents anorexia and reduces our costs as well.
+    image     : images/company/Foods.jpg
